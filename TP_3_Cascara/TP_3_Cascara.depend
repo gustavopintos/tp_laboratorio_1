@@ -1,0 +1,51 @@
+# depslib dependency file v1.0
+1508535990 source:c:\users\gusstavo\desktop\utn\tps\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"peliculas.h"
+
+1508535718 c:\users\gusstavo\desktop\utn\tps\tp_3_cascara\funciones.h
+
+1508534768 c:\users\gusstavo\desktop\utn\tps\tp_3_cascara\peliculas.h
+
+1508535220 source:c:\users\gusstavo\desktop\utn\tps\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1508535417 source:c:\users\gusstavo\desktop\utn\tps\tp_3_cascara\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"funciones.h"
+	"peliculas.h"
+
+1508553729 source:c:\users\invitado\desktop\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	"Peliculas.h"
+
+1508551570 c:\users\invitado\desktop\tp_3_cascara\funciones.h
+
+1508553638 c:\users\invitado\desktop\tp_3_cascara\peliculas.h
+
+1508553638 source:c:\users\invitado\desktop\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<string.h>
+
+1508551570 source:c:\users\invitado\desktop\tp_3_cascara\peliculas.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<conio.h>
+	<strings.h>
+	"funciones.h"
+	"peliculas.h"
+
